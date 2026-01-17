@@ -26,7 +26,7 @@ export default function Home() {
     </div>
     <div className="top-main-contents">
       <div className="top-news">
-        <Link href="/auth/login">
+        <Link href="https://9a.si/r">
           <button>
             <h2>お知らせを開く</h2>
             <h3>学校説明会についての要項を確認できます。</h3>
